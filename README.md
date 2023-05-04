@@ -1,4 +1,4 @@
-# Research on A/A/B experiment and event funnels
+# Research on A/A/B-experiment and event funnels
 
 I recommend checking out the project at [the following link](https://nbviewer.org/github/YarValerievich/Project2_AAB-test_sales_funnel/blob/main/Project2_AAB-test_sales_funnel.ipynb).
 
@@ -8,7 +8,7 @@ Based on the initial data, determine how users reach the purchase stage, how man
 
 ## Description: 
 
-Before analyzing the A/B test, data preparation was conducted, including column renaming, checking for missing values and duplicates, as well as splitting the timestamp column into date_time and date. During the exploratory data analysis, the total number of events and users in the log was calculated.
+Before analyzing the A/B-test, data preparation was conducted, including column renaming, checking for missing values and duplicates, as well as splitting the timestamp column into date_time and date. During the exploratory data analysis, the total number of events and users in the log was calculated.
 
 ## Result:
 
